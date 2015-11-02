@@ -1,0 +1,9 @@
+---
+title: Hemmingway
+layout: post
+date: 2015-03-18
+---
+
+I tell everyone I am a stevedore. I work on a dock. But it's more like I work in a dock. Actually I just work in retail. I move boxes that are delivered to the dock by men who drive trucks and call women 'honey'. Some of them have beards. I shaved my beard off when I stopped working behind the bar. Drunk women used to ask to touch it and I didn't think I'd need it anymore. I didn't really run into many drunk women when I was not working, and I'm not really an alcoholic, or much of a drinker actually. Except sometimes, when I want attention. See, when I thought about calling myself a dock-worker, or a stevedore, or something romantacising masculinity I was doing it for attention, too. I think I do it a lot. I've grown up with male role models who's self-worth was measured by the validation they recieved from others. I was bullied a lot growing up so it is not surprising that I've learned the habit too, or perhaps I was bullied because of the habit. I'm not entirely sure, but it's something I've been trying to break. Not because I think it's entirely bad, but because it didn't leave much room for self-validation.
+
+The idea of writing, the justification for writing, it always comes up first. One of my teachers, who wrote a character reference for me said that my writing was not for my ego. I like that sentiment, but I don't agree. At least not entirely. I know I try to deny it, my ego, and write something that is true to me, honest and enjoyable to read. Perhaps that's why I struggle with poetry. I was told that I had to write from somewhere honest. Somewhere personal. I think I am working towards being okay to share that. I don't think I'm self-aware enough to understand what that is yet, though. For the mean-time though. I'm going to pretend I'm Hemmingway and return to the ocean. To my dock. I've got my orange beanie waiting for me. Apparently it get's cold down there in winter.

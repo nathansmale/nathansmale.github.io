@@ -1,0 +1,24 @@
+
+# Site settings
+
+title: Nathan M Smale
+email: nathan@nathansmal.com
+description: A Personal Website
+baseurl:
+
+# Build settings
+
+
+
+
+
+
+# Define Menu Items for Main and Footer menu
+
+menuitems:
+    - url: /
+      title: Home
+    - url: /about
+      title: About Me
+    - url: /contact
+      title: Contact Me
